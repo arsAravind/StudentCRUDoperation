@@ -7,8 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PostmanInsertOperationApplication {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		SpringApplication.run(PostmanInsertOperationApplication.class, args);
 		System.out.println("Hi");
+=======
+		
+>>>>>>> branch 'master' of https://github.com/arsAravind/StudentCRUDoperation.git
 	}
 
 }
