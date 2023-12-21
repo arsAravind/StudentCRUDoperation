@@ -8,6 +8,7 @@ public class PostmanInsertOperationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PostmanInsertOperationApplication.class, args);
+		System.out.println("nil");
 	}
 
 }
